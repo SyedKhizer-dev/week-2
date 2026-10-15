@@ -20,6 +20,3 @@ htmlcov/
 .vscode/
 .DS_Store
 Thumbs.db
-
-# AWS SAM build artifacts
-.aws-sam/
